@@ -1,0 +1,27 @@
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.exe.config
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\Solutions\POS & Inventory Management\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.exe.config
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.pdb
+C:\Users\kelly\Downloads\Summer Quarter UCLA Extension\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\Summer Quarter UCLA Extension\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\Summer Quarter UCLA Extension\C# Part 2\Week 10 - FINAL\KellyHumphrey_Final\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.pdb
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.exe.config
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\bin\Debug\POS_&_Inventory_Management.pdb
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.exe
+C:\Users\kelly\Downloads\Portfolio\Order & Inventory Management Tool\POS_&_Inventory_Management\POS_&_Inventory_Management\obj\Debug\POS_&_Inventory_Management.pdb

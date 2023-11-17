@@ -1,0 +1,22 @@
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\UseCustomAttribute_KellyHumphrey.exe.config
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\UseCustomAttribute_KellyHumphrey.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\UseCustomAttribute_KellyHumphrey.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\CustomAttributes_KellyHumphrey.dll
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\CustomAttributes_KellyHumphrey.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.CopyComplete
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment 5\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\UseCustomAttribute_KellyHumphrey.exe.config
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\UseCustomAttribute_KellyHumphrey.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\UseCustomAttribute_KellyHumphrey.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\CustomAttributes_KellyHumphrey.dll
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\bin\Debug\CustomAttributes_KellyHumphrey.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.csproj.CopyComplete
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 7\Solutions\Assignment_5_KellyHumphrey\UseCustomAttribute_KellyHumphrey\UseCustomAttribute_KellyHumphrey\obj\Debug\UseCustomAttribute_KellyHumphrey.pdb

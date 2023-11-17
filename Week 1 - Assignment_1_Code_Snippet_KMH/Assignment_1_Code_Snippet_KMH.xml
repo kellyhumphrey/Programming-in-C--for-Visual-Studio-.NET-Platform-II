@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+ xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Kelly's Code Snippet</Title>
+			<Shortcut>kellycode</Shortcut>
+			<Description>I was rather uncreative with the code that I added for this snippet.</Description>
+			<Author>KMH</Author>
+		</Header>
+		<Snippet>
+			<Code Language="CSharp">
+				<![CDATA[
+				Console.WriteLine("Our summer is off to a fun start!");
+				Console.WriteLine("\nPress <ENTER> to quit...");
+				Console.ReadKey();
+				Console.WriteLine("I wasn't sure what other code to include this this assignment.");
+					]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

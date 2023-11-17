@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A36FE2F5-C4CA-4B50-8693-D208A8B20954}"
+	ProjectSection(SolutionItems) = preProject
+		Assignment_1_Code_Snippet_KMH.xml = Assignment_1_Code_Snippet_KMH.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F7AD0A-867E-4A6D-9117-64EF37A2D5A9}
+	EndGlobalSection
+EndGlobal

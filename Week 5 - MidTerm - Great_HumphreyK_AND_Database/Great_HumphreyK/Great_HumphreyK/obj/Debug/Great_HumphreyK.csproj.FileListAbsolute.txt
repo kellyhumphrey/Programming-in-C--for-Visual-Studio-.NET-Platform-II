@@ -1,0 +1,8 @@
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\bin\Debug\Great_HumphreyK.exe.config
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\bin\Debug\Great_HumphreyK.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\bin\Debug\Great_HumphreyK.pdb
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\obj\Debug\Great_HumphreyK.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\obj\Debug\Great_HumphreyK.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\obj\Debug\Great_HumphreyK.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\obj\Debug\Great_HumphreyK.exe
+C:\Users\kelly\Downloads\C# Part 2\Week 5 - Midterm\Solutions\Submission\Great_HumphreyK\Great_HumphreyK\obj\Debug\Great_HumphreyK.pdb
